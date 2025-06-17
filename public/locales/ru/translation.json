@@ -1,3 +1,5 @@
 {
-    "greeting": "privet"
+      "greeting": "Привет",
+      "search": "Поиск...",
+      "login": "Войти"
 }

@@ -1,4 +1,5 @@
 {
-    "greeting": "hello",
-    "search":"search"
+      "greeting": "Hello",
+      "search": "Search...",
+      "login": "Login"
 }

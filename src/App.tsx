@@ -1,16 +1,15 @@
 import React from 'react'
 import Header from './components/Header'
-import Footer from './components/Footer'
-import Login from './components/Login'
+// import Login from './components/Login'
 
 const App = () => {
   return (
     <div>
       <Header/>
-      <Footer/>
-      <Login/>
+      {/* <Login/> */}
+      {/* <Footer/> */}
     </div>
   )
 }
 
-export default App
+export default React.memo (App)
